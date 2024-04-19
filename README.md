@@ -1,0 +1,2 @@
+React Redux
+A complete React Redux repository featuring the integration of a Cake Shop application, along with the incorporation of ice cream products. This repository demonstrates the implementation of asynchronous actions using both functional and class components. Explore Redux configuration, actions, reducers, and store management for efficient state management in a React application. Perfect for mastering Redux basics and advanced asynchronous operations in React Redux
